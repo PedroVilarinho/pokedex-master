@@ -120,8 +120,8 @@ pokedex/
 
 ## 👨‍💻 Autor
 
-**Seu Nome**
-- Bacharelado em Ciência da Computação - UFU Campus Ituiutaba
+**Pedro Henrique Oliveira Vilarinho Silva**
+- Bacharelado em Ciência da Computação - IFTM Campus Ituiutaba
 - Disciplina: Programação Para Dispositivos Móveis (8º Período)
 - Professor: André Luiz
 
